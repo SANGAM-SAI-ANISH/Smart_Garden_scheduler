@@ -20,6 +20,7 @@ git clone <repository-url>
 cd smart-garden-scheduler
 
 ###2. **Setup Backend (Spring Boot)**
+
 1)Open the project in your preferred IDE (IntelliJ, Eclipse, VS Code with Java extensions).
 
 2)Make sure you have:
