@@ -19,16 +19,17 @@ By analyzing upcoming weather conditions, the scheduler can skip watering on rai
 git clone <repository-url>
 cd smart-garden-scheduler
 
-2. Setup Backend (Spring Boot)
+###2. **Setup Backend (Spring Boot)**
 1)Open the project in your preferred IDE (IntelliJ, Eclipse, VS Code with Java extensions).
 
 2)Make sure you have:
-1)Java 17+ installed
-2)Maven installed
+  1)Java 17+ installed
+  2)Maven installed
 
 3) Configure your API key in application.properties:
   properties:
   weather.api.key=YOUR_API_KEY
+
 4)Build and run:
 mvn spring-boot:run
 
